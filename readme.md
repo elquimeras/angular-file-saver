@@ -1,4 +1,6 @@
-# Angular File Saver
+# ng-file-saver
+
+This is a forked version of alferov/angular-file-saver.
 
 [![NPM version][npm-image]][npm-url]
 
