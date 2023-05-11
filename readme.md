@@ -1,7 +1,8 @@
-# Angular File Saver
+# ng-file-saver
+
+This is a forked version of alferov/angular-file-saver.
 
 [![NPM version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
 
 > Angular File Saver is an AngularJS service that leverages
 > [FileSaver.js](https://github.com/eligrey/FileSaver.js/) and
@@ -104,9 +105,7 @@ angular
 
 ## License
 
-MIT © [Philipp Alferov](https://github.com/alferov)
+MIT © [Daniel Alvarez](https://github.com/elquimeras)
 
-[npm-url]: https://npmjs.org/package/angular-file-saver
-[npm-image]: https://img.shields.io/npm/v/angular-file-saver.svg?style=flat-square
-[travis-url]: https://travis-ci.org/alferov/angular-file-saver
-[travis-image]: https://img.shields.io/travis/alferov/angular-file-saver.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/ng-file-saver
+[npm-image]: https://img.shields.io/npm/v/ng-file-saver.svg?style=flat-square
